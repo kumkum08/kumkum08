@@ -3,7 +3,7 @@
 ### 👋 About Me  
 Hi! I'm **Kumkum**, a final-year B.Tech (Information Technology) student with a deep passion for **Machine Learning**, **Software Engineering**, and solving real-world problems through code and innovation.
 
-I'm currently a Phase 3 (Advanced) Scholar in the prestigious **AWS AI & ML Scholarship Program**, actively building a strong foundation in AI/ML and applying it to practical projects. I’m also preparing rigorously for high-impact roles in top tech companies.
+I was recipient  a Phase 3 (Advanced) Scholar in the prestigious **AWS AI & ML Scholarship Program**, actively building a strong foundation in AI/ML and applying it to practical projects. I’m also preparing rigorously for high-impact roles in top tech companies.
 
 ---
 
