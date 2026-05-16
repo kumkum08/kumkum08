@@ -91,6 +91,4 @@ Machine Learning • Deep Learning Basics • Data Analysis
 ### 💖 Thanks for visiting my profile!  
 ### 🌌 Let’s Learn, Build, and Grow Together ✨
 
-<img src="https://komarev.com/ghpvc/?username=kumkum08&label=Profile+Views&color=blueviolet&style=flat" />
-
 </div>
