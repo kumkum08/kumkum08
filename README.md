@@ -11,17 +11,17 @@
 
 # 👩‍💻 About Me  
 
-🎓 Final-year B.Tech (Information Technology) student passionate about technology and innovation.  
+🎓 Final-year B.Tech (Information Technology) student passionate about technology, innovation, and building impactful solutions.
 
 💡 Interested in:
 - Machine Learning & AI  
 - Software Engineering  
 - Full Stack Development  
-- Problem Solving & DSA  
+- Competitive Programming & DSA  
 
 🏆 AWS AI & ML Scholarship Program — **Phase 3 (Advanced) Scholar**
 
-🚀 Currently focused on improving development skills, strengthening CS fundamentals, and building meaningful projects.
+🚀 Currently focused on strengthening development skills, problem-solving abilities, and building meaningful real-world projects.
 
 ---
 
@@ -30,7 +30,7 @@
 <div align="center">
 
 ### 👩‍💻 Languages
-<img src="https://skillicons.dev/icons?i=python,javascript,cpp,html,css,typescript" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,html,css" />
 
 ### ⚛️ Frontend Development
 <img src="https://skillicons.dev/icons?i=react,tailwind" />
@@ -64,9 +64,9 @@ Machine Learning • Deep Learning Basics • Data Analysis
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kumkum08&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumkum08&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
 
 </div>
 
@@ -100,8 +100,9 @@ Machine Learning • Deep Learning Basics • Data Analysis
 
 <div align="center">
 
-### 💖 Thanks for visiting my profile!
+### 💖 Thanks for visiting my profile!  
+### 🌌 Let’s Learn, Build, and Grow Together ✨
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=kumkum08&label=Profile+Views&color=blueviolet&style=flat" />
 
 </div>
