@@ -1,9 +1,9 @@
 <div align="center">
 
 # ✨ Hey there, I'm Kumkum 👋  
-### 💻 Aspiring Software Engineer | 🤖 ML Enthusiast | 🌸 Frontend Developer
+### 💻 Aspiring Software Engineer | 🤖 ML Enthusiast | 🌸 Full Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BB86FC&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;Frontend+Developer;DSA+Learner;Future+Software+Engineer+✨" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BB86FC&center=true&vCenter=true&width=750&lines=Machine+Learning+Enthusiast;Full+Stack+Developer;DSA+Learner;Future+Software+Engineer+✨" />
 
 </div>
 
@@ -16,7 +16,7 @@
 💡 Interested in:
 - Machine Learning & AI  
 - Software Engineering  
-- Frontend Development  
+- Full Stack Development  
 - Problem Solving & DSA  
 
 🏆 AWS AI & ML Scholarship Program — **Phase 3 (Advanced) Scholar**
@@ -30,17 +30,20 @@
 <div align="center">
 
 ### 👩‍💻 Languages
-<img src="https://skillicons.dev/icons?i=python,javascript,cpp,html,css" />
+<img src="https://skillicons.dev/icons?i=python,javascript,cpp,html,css,typescript" />
 
-### ⚛️ Frontend
+### ⚛️ Frontend Development
 <img src="https://skillicons.dev/icons?i=react,tailwind" />
 
-### 🧠 AI / ML
+### 🛠️ Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb" />
+
+### 🤖 AI / ML
 <img src="https://skillicons.dev/icons?i=python" />
 
 Machine Learning • Deep Learning Basics • Data Analysis
 
-### ⚙️ Tools & Platforms
+### ☁️ Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,aws" />
 
 </div>
@@ -50,9 +53,9 @@ Machine Learning • Deep Learning Basics • Data Analysis
 # 🧠 Currently Working On  
 
 - 🔬 Machine Learning Projects  
-- 💻 Frontend Development with React & Tailwind  
+- 💻 Full Stack Web Development  
 - 🧩 DSA & Competitive Programming  
-- ☁️ Learning Cloud + AI integration using AWS  
+- ☁️ Cloud + AI integration using AWS  
 - 📚 CS Fundamentals & Software Engineering concepts  
 
 ---
