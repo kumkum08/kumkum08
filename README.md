@@ -58,19 +58,7 @@ Machine Learning • Deep Learning Basics • Data Analysis
 - ☁️ Cloud + AI integration using AWS  
 - 📚 CS Fundamentals & Software Engineering concepts  
 
----
 
-# 📊 GitHub Stats  
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kumkum08&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumkum08&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
-
-</div>
-
----
 
 # 🌟 Quote  
 
